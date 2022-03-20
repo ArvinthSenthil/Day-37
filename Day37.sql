@@ -1,5 +1,5 @@
 CREATE TABLE students(
-SNo INT NOT NULL primary Key,
+SINo INT NOT NULL primary Key,
 StudentName TEXT NOT NULL,
 Email TEXT NOT NULL,
 Qualification TEXT NOT NULL
