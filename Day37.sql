@@ -41,7 +41,7 @@ INSERT INTO task VALUES
 ("MongoDB",2022-02-19,3,13);
 
 CREATE TABLE mentors(
-SNo INT NOT NULL primary Key,
+SINo INT NOT NULL primary Key,
 Name TEXT NOT NULL,
 Field TEXT NOT NULL,
 Language TEXT NOT NULL
